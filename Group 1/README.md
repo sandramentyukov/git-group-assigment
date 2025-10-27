@@ -11,3 +11,7 @@ Facts:
 4. The book had 2 sequels!
 
 5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Underland".
+
+6. Many parts of the story rely on mathematical and linguistic puzzles, reflecting Carroll’s background.
+
+7. Common interpretations suggest it explores childhood curiosity, identity, and the absurdity of adult rules.
