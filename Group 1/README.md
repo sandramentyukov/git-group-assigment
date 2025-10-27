@@ -2,15 +2,15 @@
 
 Facts:
 
-1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
+"Alice’s Adventures in Wonderland" (commonly known as "Alice in Wonderland") is a novel published in 1865 by Lewis Carroll.
 
-2. Lewis Carroll was the pen name of James Brown (not the singer!)
+Lewis Carroll was the pen name of Charles Lutwidge Dodgson, not James Brown.
 
-3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures.
+The story follows Alice, who falls through a rabbit hole into a fantastical world filled with anthropomorphic and nonsensical creatures.
 
-4. The book had 2 sequels!
+The book had one sequel, titled "Through the Looking-Glass, and What Alice Found There" (1871).
 
-5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Underland".
+The story has been adapted into films many times, including Tim Burton’s 2010 film "Alice in Wonderland".
 
 6. Many parts of the story rely on mathematical and linguistic puzzles, reflecting Carroll’s background.
 
